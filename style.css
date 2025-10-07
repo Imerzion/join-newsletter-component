@@ -28,6 +28,10 @@ main {
   text-align: center;
 }
 
+.newsletter--head {
+  margin-top: 5rem;
+}
+
 .newsletter--head img {
   margin-bottom: 1rem;
 }
@@ -107,3 +111,4 @@ button:hover {
 .author-info a {
   text-decoration: none;
 }
+
