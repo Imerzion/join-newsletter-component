@@ -94,7 +94,7 @@ button:hover {
 }
 
 .newsletter--form p {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   font-size: 0.875rem;
   color: #6c727f;
 }
@@ -109,3 +109,4 @@ button:hover {
 .author-info a {
   text-decoration: none;
 }
+
