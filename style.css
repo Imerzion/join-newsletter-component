@@ -12,7 +12,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   background-color: #f9fafb;
 }
 
@@ -111,4 +110,5 @@ button:hover {
 .author-info a {
   text-decoration: none;
 }
+
 
